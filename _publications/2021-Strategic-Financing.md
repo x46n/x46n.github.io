@@ -1,6 +1,6 @@
 ---
 title: "Strategic Financing and Information Revelation Amid Market Competition"
-collection: publication
+collection: publications
 permalink: /publication/2021-Strategic-Financing
 excerpt: 'Under review at Management Science'
 date: 2021-06-28
