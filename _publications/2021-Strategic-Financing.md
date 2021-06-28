@@ -2,9 +2,9 @@
 title: "Strategic Financing and Information Revelation Amid Market Competition"
 collection: publications
 permalink: /publications/2021-Strategic-Financing
-excerpt: 'Under review at Management Science'
+excerpt: 'Joint work with Wenqiang Xiao and Guoming Lai'
 date: 2021-06-28
-venue: 
+venue: 'Under review at Management Science'
 paperurl: 
 citation: 
 ---
