@@ -8,6 +8,8 @@ venue: 'Under review at Management Science'
 paperurl: 
 citation: 
 ---
+Abstract
+---
 In practice, interest expense can account for a large proportion of firms’ costs, while the
 interest rate is often influenced by a firm’s market prospect. In the presence of information
 asymmetry, a firm may have an incentive to borrow a larger amount, thereby signaling a high
