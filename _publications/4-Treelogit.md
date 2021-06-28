@@ -1,7 +1,7 @@
 ---
 title: "Estimating Large-Scale Tree Logit Models via a Difference of Strictly Convex Functions"
 collection: publications
-permalink: /publications/3-Treelogit
+permalink: /publications/4-Treelogit
 excerpt: 'This is a joint work with Srikanth Jagabathula and Paat Rusmevichientong.'
 date: 2021-06-28
 venue: 'Major Revision at Operations Research'
