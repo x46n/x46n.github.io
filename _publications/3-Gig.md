@@ -1,7 +1,7 @@
 ---
 title: "The Coin of AI has Two Sides: Matching Enhancement and Information Revelation Effects of AI on Gig-Economy Platforms"
 collection: publications
-permalink: /publications/2021-Gig
+permalink: /publications/3-Gig
 excerpt: 'This is a joint work with Yi Liu, Bowen Lou and Xinxin Li.'
 date: 2021-06-28
 venue: 'Under Review at Management Science'
