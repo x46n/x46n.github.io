@@ -1,7 +1,7 @@
 ---
 title: "“Fulfilled by Amazon”: A Strategic Perspective of Competition at the E-commerce Platform"
 collection: publications
-permalink: /publications/4-FBA
+permalink: /publications/5-FBA
 excerpt: 'This is a joint work with Huihui Liu, Wenqiang Xiao and Guoming Lai'
 date: 2021-06-28
 venue: 'Major Revision at Manufacturing and Service Operations Management'
