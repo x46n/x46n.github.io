@@ -5,7 +5,7 @@ permalink: /publications/2021-Strategic-Financing
 excerpt: 'Under review at Management Science'
 date: 2021-06-28
 venue: 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 citation: 
 ---
 In practice, interest expense can account for a large proportion of firms’ costs, while the
