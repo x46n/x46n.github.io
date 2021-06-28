@@ -1,7 +1,7 @@
 ---
 title: "Exploring Key Hackers and Cybersecurity Threats in Chinese Hacker Communities"
 collection: publications
-permalink: /publications/1-lda
+permalink: /publications/1-Lda
 excerpt: '(Conference Paper) This is a joint work with Zhen Fang, Qiang Wei, Guoqing Chen, Yong Zhang, Chunxiao Xing, Weifeng Li and Hsinchun Chen.'
 date: 2021-06-28
 venue: 'Published at 2016 IEEE Conference on Intelligence and Security Informatics (ISI)'
