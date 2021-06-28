@@ -2,11 +2,13 @@
 title: "Estimating Large-Scale Tree Logit Models via a Difference of Strictly Convex Functions"
 collection: publications
 permalink: /publications/2021-Treelogit
-excerpt: 'this is a joint work with Srikanth Jagabathula and Paat Rusmevichientong.'
+excerpt: 'This is a joint work with Srikanth Jagabathula and Paat Rusmevichientong.'
 date: 2021-06-28
 venue: 'Major Revision at Operations Research'
 paperurl: 
 citation: 
+---
+Abstract
 ---
 We describe an efficient estimation method for large-scale tree logit models, using a novel change-of-variables
 transformation that allows us to express the negative log-likelihood as a difference of strictly convex functions.
