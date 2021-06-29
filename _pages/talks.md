@@ -1,28 +1,28 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Selected Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-4. INFORMS Annual Meeting, Seattle, WA
+5. INFORMS Annual Conference, Seattle, WA
     * October 2019
 
 
-3. Operations Management Seminar, New York, NY
+4. Operations Management Seminar at NYU Stern, New York, NY
     * September 2019
 
 
-2. MSOM Conference, Singapore
+3. MSOM Annual Conference, Singapore
     * June 2019
 
 
-1. POMS Annual Conference, Washington, DC
+2. POMS Annual Conference, Washington, DC
     * May 2019
 
 
-1. POMS Annual Conference, Washington, DC
-    * May 2019
+1. UGVR Poster Session at Stanford, Palo Alto, CA
+    * September 2016
      
      
 <!--
