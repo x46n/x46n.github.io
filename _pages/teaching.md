@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: 
+title: "Experience"
 permalink: /teaching/
 author_profile: true
 ---
+I have a broad interest on both data science and model analytics. Unlocking the power of quantitative models and tools, I am passionate about making them intuitive and accessible to a wide audience. I'm experienced in telling managerial insights from data and models.
+
 # Work Experience
 - Intern at IBM Blockchain, Summer 2020
 - Intern at Bank of China, Summer 2015.
