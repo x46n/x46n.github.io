@@ -5,23 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 # Work Experience
-- Intern at IBM Blockchain, 2020
-- Intern at Bank of China, 2015.
+- Intern at IBM Blockchain, Summer 2020
+- Intern at Bank of China, Summer 2015.
 
 # Teaching Experience
-
-Most of my teaching experiences lie in courses related to digital and operations models.
-
-## Instructor
-- Operations Management (Undergraduate Core), NYU Stern, 2021.
-
-
-## Teaching Assistant
-- Operations Management (MBA Core), NYU Stern, 2020
-- Mathematics (High School), Beijing, China, 2016
+- Instructor: Operations Management (Undergraduate Core), NYU Stern, 2021.
+- Teaching Assistant: Operations Management (MBA Core), NYU Stern, 2020
+- Instructor: Mathematics (Undergraduate), Beijing, China, 2016
 
 # Academic Employment
-
+- Institutionalized Choice and Individual Entrepreneurial Behavior, Beijing, China, 2016
+- New Ascending Auction for Assignment Problems, Minneapolis, MN, 2015
+- The Antecedents of Users’ Registration and Activity On MOOC, Beijing, China, 2015
+- Cross Selling Performance of People’s Insurance Company of China, Beijing, China, 2015
+- 
 <!---
 
 {% include base_path %}
