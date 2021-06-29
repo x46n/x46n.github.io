@@ -10,4 +10,4 @@ location: "Palo Alto, CA"
 
 [More information about the program here](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr-participants)
 
-<br/><img src='/files/Poster_Xinyi.pdf'>
+[Poster here](https://x46n.github.io/files/Poster_Xinyi.pdf)
