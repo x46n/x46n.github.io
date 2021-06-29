@@ -4,7 +4,7 @@ title: "Selected Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+<!--
 ## INFORMS Annual Conference, Seattle, WA
 - October 2019
 
@@ -24,8 +24,8 @@ author_profile: true
 ## UGVR Poster Session at Stanford, Palo Alto, CA
 - September 2016
      
-     
-<!--
+-->     
+
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
@@ -35,4 +35,4 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
--->
+
