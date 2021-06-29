@@ -18,7 +18,8 @@ author_profile: true
 - New Ascending Auction for Assignment Problems, Minneapolis, MN, 2015
 - The Antecedents of Users’ Registration and Activity On MOOC, Beijing, China, 2015
 - Cross Selling Performance of People’s Insurance Company of China, Beijing, China, 2015
-- 
+
+
 <!---
 
 {% include base_path %}
