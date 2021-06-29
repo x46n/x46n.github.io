@@ -5,24 +5,24 @@ permalink: /talks/
 author_profile: true
 ---
 
-5. INFORMS Annual Conference, Seattle, WA
-    * October 2019
+## INFORMS Annual Conference, Seattle, WA
+    - October 2019
 
 
-4. Operations Management Seminar at NYU Stern, New York, NY
-    * September 2019
+## Operations Management Seminar at NYU Stern, New York, NY
+    - September 2019
 
 
-3. MSOM Annual Conference, Singapore
-    * June 2019
+## MSOM Annual Conference, Singapore
+    - June 2019
 
 
-2. POMS Annual Conference, Washington, DC
-    * May 2019
+## POMS Annual Conference, Washington, DC
+    - May 2019
 
 
-1. UGVR Poster Session at Stanford, Palo Alto, CA
-    * September 2016
+## UGVR Poster Session at Stanford, Palo Alto, CA
+    - September 2016
      
      
 <!--
