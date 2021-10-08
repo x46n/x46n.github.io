@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2-Gig
 excerpt: 'This is a joint work with Yi Liu, Bowen Lou and Xinxin Li.'
 date: 2021-06-28
-venue: 'Under Review at Management Science'
+venue: 'Major Revision at Management Science'
 paperurl: 
 citation: 
 ---
