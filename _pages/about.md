@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a fourth-year Ph.D. Candidate in [Tech, Ops, & Stats, Leonard N. Stern School of Business, New York University](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept).
+I'm a fifth-year Ph.D. Candidate in [Tech, Ops, & Stats, Leonard N. Stern School of Business, New York University](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept).
 My current research interests focus on online platform incentives, operations and finance interface, and assortment data analytics. I'm co-advised by [Prof. Wenqiang Xiao](http://people.stern.nyu.edu/wxiao/) and [Prof. Srikanth Jagabathula](https://srikanth-jagabathula.com/).
 
 
