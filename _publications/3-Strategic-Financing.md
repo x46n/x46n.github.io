@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/3-Strategic-Financing
 excerpt: 'This is a joint work with Wenqiang Xiao and Guoming Lai.'
 date: 2021-06-28
-venue: 'Major Revision at Management Science'
+venue: 'Under Revision at Management Science'
 paperurl: 
 citation: 
 ---
