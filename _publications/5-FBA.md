@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/5-FBA
 excerpt: 'This is a joint work with Huihui Liu, Wenqiang Xiao and Guoming Lai'
 date: 2021-06-28
-venue: 'Forthcoming at Manufacturing and Service Operations Management'
+venue: 'Minor Revision at Manufacturing and Service Operations Management'
 paperurl: 
 citation: 
 ---
