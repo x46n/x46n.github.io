@@ -23,5 +23,5 @@ Skills
 * R
 * Python
 
-Please find my current CV and Resume here.
+Please find my current [CV](https://x46n.github.io/files/Xinyi_Academic_CV.pdf) and [Resume](https://x46n.github.io/files/Xinyi_Resume.pdf) here.
 ======
