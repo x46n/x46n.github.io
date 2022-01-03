@@ -23,5 +23,5 @@ Skills
 * R
 * Python
 
-Please find my current CV here.
+Please find my current CV and Resume here.
 ======
