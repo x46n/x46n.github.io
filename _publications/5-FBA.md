@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/5-FBA
 excerpt: 'This is a joint work with Huihui Liu, Wenqiang Xiao and Guoming Lai'
 date: 2021-06-28
-venue: 'Minor Revision at Manufacturing and Service Operations Management'
+venue: 'Forthcoming at Manufacturing and Service Operations Management'
 paperurl: 
 citation: 
 ---
@@ -28,3 +28,4 @@ cross-price and cross-service sensitivities are correlated, or the parties set t
 sequentially. Managerial implications: Our analysis provides insights about when FBA is
 more likely to be beneficial and when it can be harmful. They are useful for understanding the
 impacts of FBA on both Amazon and the third-party sellers.
+
